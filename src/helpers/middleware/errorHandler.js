@@ -11,8 +11,6 @@ const {
 module.exports = async (err, req, res, next) => {
   req.err = err;
 
-  console.log(err);
-
   if (err instanceof ApiError) {
     if (err.cause && err.cause.isAxiosError) {
       delete err.cause.config;
