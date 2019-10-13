@@ -1,7 +1,3 @@
-# Node.js API boilerplate
+## Youtube Browser
 
-## Requirements
-
-* PostgreSQL
-* Reddis
-* RabbitMQ
+[Link to client](https://github.com/sulaiman1073/youtube-browser-client)

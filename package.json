@@ -97,10 +97,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sulaiman1073/nodejs-api-boilerplate.git"
+    "url": "git+https://github.com/sulaiman1073/youtube-browser-server.git"
   },
   "bugs": {
-    "url": "https://github.com/sulaiman1073/nodejs-api-boilerplate/issues"
+    "url": "https://github.com/sulaiman1073/youtube-browser-server/issues"
   },
-  "homepage": "https://github.com/sulaiman1073/nodejs-api-boilerplate#readme"
+  "homepage": "https://github.com/sulaiman1073/youtube-browser-server#readme"
 }
